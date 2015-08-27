@@ -32,7 +32,7 @@ in the approriate size for display on PC or phone.
 ## Future optimization
 
 Add more artists' websites and set it as a parameter, and adjust the categories accordingly.
-Select pictures from different pages instead of just the first page.
-
-
+Select pictures from different pages from the original website instead of just the first page.
+Tests.
+Add UI feedback if the call to artist's website is slow.
 
