@@ -4,9 +4,7 @@ The project aimed to create an application that display a cartoon based on a cat
 The cartoon can be screen scraped from thisisindex.com. The service should return cartoon at different sizes according 
 to the device used. 
 
-The project is hosted on Google App Engine.
-(http://1-dot-indexedcartoon-1044.appspot.com/IndexedCartoon)
-
+The project is hosted on Google App Engine(http://1-dot-indexedcartoon-1044.appspot.com/IndexedCartoon).
 The source code is located on github.
 
 # Technical Focus
@@ -15,12 +13,10 @@ present the cartoon fetched from thisisindex.com.
 
 ## Technology Stack
 BackEnd: Java
-
 Framework: MVC
 
 ## Reasoning:
 Languages: I chose JAVA to develop the web service since I'm more proficient with it.
-
 Framework: I utilized the Model-View-Controller framework as it helps to seperate the business logic from the interface,
 which improves maintainability.
 
@@ -35,10 +31,7 @@ in the approriate size for display on PC or phone.
 ## Future optimization
 
 Add more artists' websites and set it as a parameter, and adjust the categories accordingly.
-
 Select pictures from different pages from the original website instead of just the first page.
-
-Tests.
-
 Add UI feedback if the call to artist's website is slow.
+Tests.
 
